@@ -147,7 +147,12 @@ liu
 
 [2]: https:://github.com/liuzhenboo/Markdown
 
+**本地文件夹链接**
 
+    点击[图片资源](resource)文件夹
+效果：
+
+点击[图片资源](resource)文件夹
 ### *2.9 图片*
 添加图片的形式和链接相似：
 #### 2.9.1 原图大小的图片
